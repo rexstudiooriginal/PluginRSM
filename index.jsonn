@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "id": "test_plugin",
+      "name": "Rex Test Plugin",
+      "version": "1.0.0",
+      "author": "RexStudio",
+      "description": "Plugin tester pertama RexSmartManager",
+      "download": "https://github.com/rexstudiooriginal/PluginRSM/raw/main/plugins/test_plugin/test_plugin.zip"
+    }
+  ]
+}

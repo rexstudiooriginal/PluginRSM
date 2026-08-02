@@ -1,0 +1,12 @@
+{
+  "id": "test_plugin",
+  "name": "Rex Test Plugin",
+  "version": "1.0.0",
+  "author": "RexStudio",
+  "type": "SERVICE",
+  "permissions": [
+    "STORAGE"
+  ],
+  "dependencies": [],
+  "entryClass": "com.rex.test.plugin.TestPlugin"
+}
